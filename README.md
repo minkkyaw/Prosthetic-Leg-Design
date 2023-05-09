@@ -1,4 +1,11 @@
 # Prosthetic-Leg-Design!
+You can download the files from the following links.
+<p>3D printing (gcode) - https://firebasestorage.googleapis.com/v0/b/minkyaw-mechanicalengineer.appspot.com/o/Final%203D%20print.zip?alt=media&token=fa26de97-5722-4be3-9a6d-cb4d9de34851</p>
+<p>STL FILES - https://firebasestorage.googleapis.com/v0/b/minkyaw-mechanicalengineer.appspot.com/o/STL_Leg.zip?alt=media&token=87176773-eb11-4b97-a40f-035f8c8c6ad2</p>
+<p>Simulation - https://firebasestorage.googleapis.com/v0/b/minkyaw-mechanicalengineer.appspot.com/o/Part_analysis.zip?alt=media&token=3913d8fe-9d05-4b7f-8461-06f36c8f5b25</p>
+<p>Solidworks - https://firebasestorage.googleapis.com/v0/b/minkyaw-mechanicalengineer.appspot.com/o/SOLIDWORKS.zip?alt=media&token=882af7a8-403b-43e2-bf9f-2d8aea7658b4</p>
+<p>All Files - https://firebasestorage.googleapis.com/v0/b/minkyaw-mechanicalengineer.appspot.com/o/Prosthetic_Leg.zip?alt=media&token=d69d8b8e-ac04-445d-8b40-e9247a9d44c7</p>
+
 ![Foot](https://user-images.githubusercontent.com/47952171/236967930-f46b9e33-450b-4a3e-b54a-8e7ee7f8d318.jpeg)
 ![Foot_hinge](https://user-images.githubusercontent.com/47952171/236967940-6c3b36ec-cd48-4fab-9862-0704053be233.jpeg)
 ![Spring](https://user-images.githubusercontent.com/47952171/236967946-9ba61858-7e79-43da-ac80-1590db1d961e.jpeg)
